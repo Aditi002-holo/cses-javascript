@@ -1,1 +1,4 @@
-# CSES JavaScript Solutions
+## CSES JavaScript Solutions
+
+- [weirdAlgorithm](./weirdAlgorithm.js)
+
